@@ -1,0 +1,69 @@
+.a{
+
+  background: url(./a.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  height: 100vh;
+  width: 100vw;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .home-container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.home-header {
+  background-color: #075e54;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+.home-content {
+  display: flex;
+  flex: 1;
+  overflow: hidden;
+} */
